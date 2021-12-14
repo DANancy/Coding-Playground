@@ -3,7 +3,7 @@ import solcast
 from dateutil import tz
 from datetime import datetime
 
-API_KEY = '8bQiJkGE--ukTUA2l20--y1S3QYa1wEg'
+API_KEY = 'xxx'
 latitude = -17.82772
 longitude = 31.05337
 new_tz = tz.gettz('UTC+2')
